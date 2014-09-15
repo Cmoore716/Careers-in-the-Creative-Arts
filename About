@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title></title>
+<title>The About Page</title>
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
@@ -43,40 +43,40 @@ New York, NY 10007</address>
 <h2>DIRECTIONS</h2>
 
 <h3>By Subway</h3>
-<p>You can get to BMCC by taking any one of the following lines:<br></p>
-<p>A, C, E to Chambers Street<br></p>
-<p>Walk 3 Blocks West on Chambers Street<br></p>
-<p>1, 2, or 3 to Chambers Street<br></p>
-<p>alk 2 Blocks West on Chambers Street<br></p>
-<p>R to City Hall<br></p>
-<p>N to City Hall<br></p>
-<p>J, M to Chambers Street<br></p>
-<p>Walk 6 Blocks West on Chambers Street<br></p>
-<p>Check the MTA's web site for the latest information.</p>
+<p>You can get to BMCC by taking any one of the following lines:<br>
+A, C, E to Chambers Street<br>
+Walk 3 Blocks West on Chambers Street<br>
+1, 2, or 3 to Chambers Street<br>
+Walk 2 Blocks West on Chambers Street<br>
+R to City Hall<br>
+N to City Hall<br>
+J, M to Chambers Street<br>
+Walk 6 Blocks West on Chambers Street<br>
+Check the MTA's web site for the latest information.</p>
 
 <h3>By Bus</h3>
-<p>M-22 from Grand Street and Madison Street<br></p>
-<p>Walk 4 Blocks West<br></p>
-<p>Check the MTA's web site for the latest information.</p>
+M-22 from Grand Street and Madison Street<br>
+Walk 4 Blocks West<br>
+Check the MTA's web site for the latest information.</p>
 
 <h3>By PATH</h3>
-<p>Path Train to World Trade Center<br></p>
-<p>Walk North 4 blocks on Greenwich St.<br></p>
-<p>Turn left at Chambers Street, entrance is on the right.<br></p>
-<p>Path Train to Christopher Street<br></p>
-<p>Walk East 2 Blocks<br></p>
-<p>Take the 1 Downtown from Christopher Street/Sheridan Square station to Chambers Street.<br></p>
-<p>Walk 2 Blocks West on Chambers Street</p>
+Path Train to World Trade Center<br>
+Walk North 4 blocks on Greenwich St.<br>
+Turn left at Chambers Street, entrance is on the right.<br>
+Path Train to Christopher Street<br>
+Walk East 2 Blocks<br>
+Take the 1 Downtown from Christopher Street/Sheridan Square station to Chambers Street.<br>
+Walk 2 Blocks West on Chambers Street</p>
 
 <h3>By Car</h3>
-<p>Driving From East Side Highway:<br></p>
-<p>East River Drive all the way around the southern tip of Manhattan,<br></p>
-<p>Through Underpass Straight to West Street,<br></p>
-<p>Turn Right on Chambers Street<br></p>
-<p>Driving From West Side Highway:<br></p>
-<p>East River Drive all the way around the southern tip of Manhattan,<br></p>
-<p>Through Underpass Straight to West Street,<br></p>
-<p>Turn Right on Chambers Street</p>
+<p>Driving From East Side Highway:<br>
+East River Drive all the way around the southern tip of Manhattan,<br>
+Through Underpass Straight to West Street,<br><
+Turn Right on Chambers Street<br>
+Driving From West Side Highway:<br>
+East River Drive all the way around the southern tip of Manhattan,<br>
+Through Underpass Straight to West Street,<br>
+Turn Right on Chambers Street</p>
 </div>
 
 
