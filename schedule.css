@@ -23,6 +23,14 @@ p{
 	font-family: times new roman, georgia, serif;
 	font-size: 1em;
  }
+
+ .opening, .session1, .session2, .lunch, .session3, .session4, .closing{
+ 																		border: 2px;
+ 																		border-color: black;
+ 																		border-style: dotted;
+ 																		padding: 10px;
+ 																		text-align: center;
+ 																		}
 	   
 footer{
 		text-align: center;
