@@ -3,12 +3,25 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title></title>
+<title>The Videos Page</title>
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="navigation.css">
+<link rel="stylesheet" type="text/css" href="normalize.css">
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="video.css">
+<link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
 </head>
-<body>
 
+<body id="videos">
+<a name="top"></a>
+		<header>
+		    <h1>Careers in the Creative Arts</h1>
+            <h2>Videos</h2>
+            <div class="menu">
+                <a href="#main_nav">Menu</a>
+            </div>
+        </header>
 
 
 
@@ -21,8 +34,12 @@
 
 <section class = "video1">
 <h3>Elsbeth Brown</h3>
-<iframe>http://www.youtube.com/watch?v=0yZJwjibLk4</iframe>
-<p>Elsbeth talks about her career in dance, what brought her to BMCC and coming back to dance after leaving it.</p>
+<div class="videoWrapper">
+<!-- iframe below is Copy & Pasted from YouTube replace with your own -->
+<iframe width="560" height="315" src="//www.youtube.com/embed/0yZJwjibLk4" allowfullscreen></iframe>
+</div>
+<!-- end .videoWrapper -->
+<p class="track">Elsbeth talks about her career in dance, what brought her to BMCC and coming back to dance after leaving it.</p>
 </section>
 
 
@@ -30,7 +47,11 @@
 
 <section class = "video2">
 <h3>Jody Culkin</h3>
-<iframe>http://www.youtube.com/watch?v=KqzO_1k44DU</iframe>
+<div class="videoWrapper">
+<!-- iframe below is Copy & Pasted from YouTube replace with your own -->
+<iframe width="560" height="315" src="//www.youtube.com/embed/KqzO_1k44DU" allowfullscreen></iframe>
+</div>
+<!-- end .videoWrapper -->
 <p>Jody discusses her comic about how to use the Arduino microcontroller and the user of comics to explain technical topics.</p>
 </section>
 
@@ -39,7 +60,7 @@
 
 <section class = "video3">
 <h3>Sarah Havilland</h3>
-<iframe>http://www.youtube.com/watch?v=vWdO7uUXvTI</iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/vWdO7uUXvTI" allowfullscreen></iframe>
 <p>Sarah discusses her sculpture, "Reflection Bench," how it came about and what it signifies.</p>
 </section>
 
@@ -48,7 +69,7 @@
 
 <section class = "video4">
 <h3>Sandra Poster</h3>
-<iframe>http://www.youtube.com/watch?v=XCHQZXKLASA</iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/XCHQZXKLASA" allowfullscreen></iframe>
 <p>Sandra discusses her Emmy winning work "We Are New York" and what it was like to win an Emmy.</p>
 </section>
 
@@ -57,7 +78,7 @@
 
 <section class = "video5">
 <h3>Malcolm Linton</h3>
-<iframe>http://www.youtube.com/watch?v=mEH70FEfisA</iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/mEH70FEfisA" allowfullscreen></iframe>
 <p>Malcolm discusses his career as a photo journalist for major publications covering war and other big events.</p>
 </section>
 
@@ -66,17 +87,37 @@
 
 <section class = "video6">
 <h3>Sheila Solomon Klass</h3>
-<iframe>http://www.youtube.com/watch?v=qBVQkzXpLvc</iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/qBVQkzXpLvc" allowfullscreen></iframe>
 <p>Sheila discusses aging, teaching, writing and her article "Aging and the Inacessible City."</p>
 </section>
 
+<a name="main_nav"></a>
+	<nav id="main_nav">
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="about.html">About</a></li>
+			<li><a href="schedule.html">Schedule</a></li>
+			<li><a href="sessions.html">Sessions</a></li>
+			<li><a href="speakers.html">Speakers</a></li>
+			<li><a href="video.html">Videos</a></li>
 
+			<li><a href="stop" class="top">Top</a></li>
+		</ul>
+	</nav> <!-- end main_nav -->
 
 
 </article>
 
 
+	<footer>
+		<div class="copyright">
+			<p>&copy; 2014 BMCC</p>
+		</div>
 
+		<div class="CreatedBy">
+			<p><a href="created_by.html">Created by Cortney Moore</a></p>
+		</div>
+	</footer>
 
 </body>
 </html>
