@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+
+{
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+header{
+		text-align: center;
+		font-size: 1.5 em;
+		font-weight: bold;
+	   }
+
+html{background-color:#F2F5A9;}
+	   
+h1 {
+	color: #585858;
+	font-family: 'Raleway',sans-serif;
+	font-size: 2em;
+	font-weight: 800;
+	line-height: 72px;
+	margin: 0 0 24px;
+	text-transform: uppercase;
+	padding-top:50px;
+}
+
+/*	   
+h1{
+	font-family: arial, sans serif;
+	font-size: 1.414 em;
+	margin:20px;
+  }
+*/
+  
+h2 { color: #585858; 
+    font-family: 'Raleway',sans-serif; 
+	font-size: 2em; 
+	font-weight: 800; 
+	line-height: 36px;
+	margin: 0 0 24px;
+	text-align: center; 
+  }
+  
+
+h3 { color: #6E6E6E; 
+    font-family: 'Raleway',sans-serif; 
+	font-size: 1.250em; 
+	font-weight: 800; 
+	line-height: 36px;
+	margin: 0 0 24px;
+	text-align: center; 
+  }
+
+p , h4, .room, .time, .track{ color: #000; 
+							font-family: 'Raleway',sans-serif; 
+							font-size: 1em; 
+							font-weight: 500; 
+							line-height: 20px; 
+							margin: 0 0 24px; 
+							}
+
+/*  
+p{
+	font-family: times new roman, georgia, serif;
+	font-size: 1em;
+ }
+*/
+
+address{padding:15px;}
+
+ .opening, .session1, .session2, .lunch, .session3, .session4, .closing{
+ 																		border: 2px;
+ 																		border-color: black;
+ 																		border-style: dotted;
+ 																		padding: 10px;
+ 																		text-align: center;
+ 																		}
+	   
+footer{
+		text-align: center;
+		font-size: 0.938 em;
+		font-weight: bold;
+		padding-top:50px;
+	  }
+			   
+			   
