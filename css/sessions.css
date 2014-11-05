@@ -14,40 +14,41 @@ header{
 	   }
 
 html{background-color:#F2F5A9;}
+
+#image-color{background-color: #f68408;
+			 border-bottom:2px;
+			 border-bottom-color: black;
+			 border-bottom-style: solid;}
+
+.BMCC{padding-top: 50px;}
 	   
 h1 {
 	color: #585858;
 	font-family: 'Raleway',sans-serif;
 	font-size: 2em;
-	font-weight: 800;
-	line-height: 72px;
+	font-weight: bolder;
+	line-height: 50px;
 	margin: 0 0 24px;
 	text-transform: uppercase;
 	padding-top:50px;
 }
-
-/*	   
-h1{
-	font-family: arial, sans serif;
-	font-size: 1.414 em;
-	margin:20px;
-  }
-*/
   
-h2 { color: #585858; 
+h2 { color: #084B8A; 
     font-family: 'Raleway',sans-serif; 
-	font-size: 2em; 
-	font-weight: 800; 
+	font-size: 1.5em; 
+	font-weight: lighter; 
 	line-height: 36px;
 	margin: 0 0 24px;
+	text-transform: uppercase;
 	text-align: center; 
+	padding-top: 55px;
   }
   
 
 h3 { color: #6E6E6E; 
     font-family: 'Raleway',sans-serif; 
 	font-size: 1.250em; 
-	font-weight: 800; 
+	font-weight: 600; 
 	line-height: 36px;
 	margin: 0 0 24px;
 	text-align: center; 
@@ -67,8 +68,6 @@ p{
 	font-size: 1em;
  }
 */
-
-address{padding:15px;}
 
  .opening, .session1, .session2, .lunch, .session3, .session4, .closing{
  																		border: 2px;
