@@ -54,30 +54,37 @@ h3 { color: #6E6E6E;
 	text-align: center; 
   }
 
-p , h4, .room, .time, .track{ color: #000; 
-							font-family: 'Raleway',sans-serif; 
-							font-size: 1em; 
-							font-weight: 500; 
-							line-height: 20px; 
-							margin: 0 0 24px; 
-							}
+p , h4{color: #000; 
+	   font-family: 'Raleway',sans-serif; 
+	   font-size: 1em; 
+	   font-weight: 500; 
+	   line-height: 20px; 
+	   margin: 0 0 24px; 
+	   padding: 10px;
+	  }
 
-/*  
-p{
-	font-family: times new roman, georgia, serif;
-	font-size: 1em;
- }
-*/
+h4{font-weight: bolder;
+   padding-top: 30px;}
 
-address{padding:15px;}
+.event{font-weight: bold;
+	   color: #f68408;
+	   padding-top: 30px;
+	   padding-bottom: 10px;
+	  }
 
- .opening, .session1, .session2, .lunch, .session3, .session4, .closing{
- 																		border: 2px;
- 																		border-color: black;
- 																		border-style: dotted;
- 																		padding: 10px;
- 																		text-align: center;
- 																		}
+address{padding-top: 20px;
+		padding-bottom: 30px;
+	    padding-right:50px;
+	    padding-left: 50px;
+	   }
+
+.kaisar1, .kaisar2{text-align: center;
+				   color: #f68408;
+				   line-height: 1px;
+				   }
+
+.kaisar1{padding-left: 55px;}
+
 	   
 footer{
 		text-align: center;

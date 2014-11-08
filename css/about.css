@@ -52,15 +52,34 @@ h3 { color: #6E6E6E;
 	line-height: 36px;
 	margin: 0 0 24px;
 	text-align: center; 
+	padding-top: 50px;
   }
 
-p , h4, .room, .time, .track{ color: #000; 
-							font-family: 'Raleway',sans-serif; 
-							font-size: 1em; 
-							font-weight: 500; 
-							line-height: 20px; 
-							margin: 0 0 24px; 
-							}
+h6{text-align: center;}
+
+p , h4, .time{color: #000; 
+			  font-family: 'Raleway',sans-serif; 
+			  font-size: 1em; 
+			  font-weight: 500; 
+			  line-height: 20px; 
+			  margin: 0 0 24px; 
+			  padding-right: 10px;
+			  padding-left: 10px;
+			  padding-top: 5px;
+			 }
+
+h4{font-weight: bolder;}
+
+/*.directions1, .directions2, .directions3, .directions4, .directions5, .directions6{padding: 10px;}*/
+
+.info{font-weight: bold;
+	  color: #f68408;}
+
+.train, .bus, .path, .car{padding: 10px;}
+
+.list{padding: 15px;}
+
+.or{text-align: center;}
 
 /*  
 p{
@@ -69,13 +88,20 @@ p{
  }
 */
 
- .opening, .session1, .session2, .lunch, .session3, .session4, .closing{
- 																		border: 2px;
- 																		border-color: black;
- 																		border-style: dotted;
- 																		padding: 10px;
- 																		text-align: center;
- 																		}
+.event{font-weight: bold;
+	   color: #f68408;
+	   padding-top: 30px;
+	   padding-bottom: 10px;
+	  }
+
+address{padding-top: 20px;
+		padding-bottom: 30px;
+	    padding-right:50px;
+	    padding-left: 50px;
+	   }
+
+.june14, .time{font-weight: bolder;
+			   text-align: center;}
 	   
 footer{
 		text-align: center;
